@@ -54,6 +54,7 @@ cat.lifes_count()
 
 elephant = Elefant('Слоновые', 60, 'Травоядные')
 print(elephant.all_attrib)
+print(elephant.family)
 
 dog = Dog('Псовые', 15, 'Домашние животные. Хищник')
 print(dog.all_attrib)
